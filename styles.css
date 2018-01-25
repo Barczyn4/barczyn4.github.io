@@ -8,6 +8,7 @@ html, body {
 h1 {
     font-family: 'Roboto Slab', serif;
     font-size: 45px;
+    color: rgb(109, 120, 138);
 }
 
 li {
@@ -36,4 +37,5 @@ img {
 
 .flex .fa {
     font-size: 30px;
+    color: rgb(66, 134, 244);
 }
