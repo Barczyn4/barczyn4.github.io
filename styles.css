@@ -55,7 +55,12 @@ img {
     color: coral;
 }
 
-a.mailLink {
+a.mailLink{
+    text-decoration: none;
+    color:coral;
+}
+
+a.phoneLink{
     text-decoration: none;
     color:coral;
 }
